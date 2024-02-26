@@ -11,5 +11,5 @@ Built a mini weather app using Flutter and Dart. The app uses the OpenWeatherMap
 
 ## ScreenShots:
 
-![ScreenShot1](https://github.com/abdoachhoubi/flutter-01-weather/tree/main/readme_assets/screen1.png)
-![ScreenShot2](https://github.com/abdoachhoubi/flutter-01-weather/tree/main/readme_assets/screen2.png)
+<img alt="ScreenShot1" src="https://github.com/abdoachhoubi/flutter-01-weather/tree/main/readme_assets/screen1.png" width="320" />
+<img alt="ScreenShot2" src="https://github.com/abdoachhoubi/flutter-01-weather/tree/main/readme_assets/screen2.png" width="320" />
